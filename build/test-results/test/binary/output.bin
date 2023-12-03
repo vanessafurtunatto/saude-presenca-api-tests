@@ -1,0 +1,51 @@
+Request method:	POST
+:Request URI:	http://api.saudepresenca.cloud/v1/User/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+ Headers:		Authorization=Bearer 
+				Accept=*/*
+"				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+!    "UserName": "administrador",
+    "PassWord": "B3xeYM@74hLn"
+}
+Request method:	POST
+:Request URI:	http://api.saudepresenca.cloud/v1/User/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+ Headers:		Authorization=Bearer 
+				Accept=*/*
+"				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+!    "UserName": "administrador",
+    "PassWord": "B3xeYM@74hLn"
+}
+Request method:	POST
+:Request URI:	http://api.saudepresenca.cloud/v1/User/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+ Headers:		Authorization=Bearer 
+				Accept=*/*
+"				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+!    "UserName": "administrador",
+    "PassWord": "B3xeYM@74hLn"
+}
